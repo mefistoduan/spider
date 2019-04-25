@@ -10,24 +10,30 @@
  
  5.获取每日股价信息（关键词股价
  
+ ============
+ todo
+ 
+ 1.解决自增问题
  
  ===============
-t_user
+ ##nlp 
+ 
+###t_user
 
 | name | type | default | memo| 
 | ------------- |:-------------:| -----:|-----:|
-|id |int | - | -
-|usercode |string(20) | - | -
-|pwd |string(50)| - | -
+|id |int | - | not null
+|usercode |varchar(20) | - | -
+|pwd |varchar(50)| - | -
 |state |smallInt | 1|  1 normal 2pause 99delete
 
-t_info
+####t_info
 
 | name | type | default | memo| 
 | ------------- |:-------------:| -----:|-----:|
-|iid |int|-|-
+|iid |int|-|not null
 |cdt |datatime|-|-
-|content| string(200} |
+|content| varchar(200} |
 
 
 
