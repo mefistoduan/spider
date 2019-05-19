@@ -56,3 +56,4 @@ node_modules/tunnel-agent/node_modules/safe-buffer/package.json
 node_modules/util-deprecate/package.json
 node_modules/verror/node_modules/core-util-is/package.json
 *.txt
+.idea/workspace.xml
