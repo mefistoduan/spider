@@ -1,3 +1,6 @@
+# git ignore
+xcuserdata
+.DS_Store
 node_modules/
 .idea/
 .deploy_git/
