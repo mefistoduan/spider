@@ -8,13 +8,13 @@ var spider = require('./spider'); //爬虫part
 // const url = 'https://s.weibo.com/top/summary?Refer=top_hot&topnav=1&wvr=6';
 const url = 'http://www.emeixian.com/category-166-b0.html';
 const config = "";
-const minute = Math.random() * 10;
+const minute = Math.random() * 10000;
 const timeout = (minute * minute).toFixed(2);
 
 // run
 // search(url);
-
-// let myInterval = setInterval(search, timeout, url);
+console.log(timeout);
+let myInterval = setInterval(search, timeout, url);
 
 
 function search(url) {

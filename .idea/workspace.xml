@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c188ccd-659c-4772-b41e-63f61dbec425" name="Default Changelist" comment="" />
+    <list default="true" id="6c188ccd-659c-4772-b41e-63f61dbec425" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.recently_updates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.recently_updates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_asn1@0.2.4@asn1/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_asn1@0.2.4@asn1/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cheerio@1.0.0-rc.3@cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_cheerio@1.0.0-rc.3@cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cheerio@1.0.0-rc.3@cheerio/node_modules/htmlparser2/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_cheerio@1.0.0-rc.3@cheerio/node_modules/htmlparser2/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cheerio@1.0.0-rc.3@cheerio/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_cheerio@1.0.0-rc.3@cheerio/node_modules/lodash/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ecc-jsbn@0.1.2@ecc-jsbn/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_ecc-jsbn@0.1.2@ecc-jsbn/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_extend@3.0.2@extend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_extend@3.0.2@extend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_htmlparser2@3.10.1@htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_htmlparser2@3.10.1@htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_htmlparser2@3.10.1@htmlparser2/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_htmlparser2@3.10.1@htmlparser2/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-signature@1.2.0@http-signature/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_http-signature@1.2.0@http-signature/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-signature@1.2.0@http-signature/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_http-signature@1.2.0@http-signature/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-signature@1.2.0@http-signature/node_modules/sshpk/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_http-signature@1.2.0@http-signature/node_modules/sshpk/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_lodash@4.17.11@lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_lodash@4.17.11@lodash/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_readable-stream@3.3.0@readable-stream/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_readable-stream@3.3.0@readable-stream/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_readable-stream@3.3.0@readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_readable-stream@3.3.0@readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/extend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/extend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/http-signature/node_modules/sshpk/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/http-signature/node_modules/sshpk/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_request@2.88.0@request/node_modules/uuid/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_safer-buffer@2.1.2@safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_safer-buffer@2.1.2@safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_sshpk@1.16.1@sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_sshpk@1.16.1@sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_sshpk@1.16.1@sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_sshpk@1.16.1@sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_sshpk@1.16.1@sshpk/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_sshpk@1.16.1@sshpk/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_string_decoder@1.2.0@string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_string_decoder@1.2.0@string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_uuid@3.3.2@uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_uuid@3.3.2@uuid/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cheerio/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cheerio/node_modules/lodash/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/htmlparser2/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/htmlparser2/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-signature/node_modules/sshpk/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/http-signature/node_modules/sshpk/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/node_modules/extend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/uuid/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sshpk/node_modules/asn1/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sshpk/node_modules/ecc-jsbn/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sshpk/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sshpk/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uuid/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.md" beforeDir="false" afterPath="$PROJECT_DIR$/test.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +94,22 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="63">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="42">
-                <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="15" />
+              <first_editor relative-caret-position="441">
+                <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,8 +145,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/spider.js" />
-        <option value="$PROJECT_DIR$/test.md" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/test.md" />
       </list>
     </option>
   </component>
@@ -185,11 +240,12 @@
       <workItem from="1556465571432" duration="3304000" />
       <workItem from="1557063972909" duration="51000" />
       <workItem from="1558193818463" duration="2032000" />
+      <workItem from="1558278926474" duration="898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17017000" />
+    <option name="totallyTimeSpent" value="17915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1026" extended-state="0" />
@@ -247,20 +303,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+    <entry file="file://$PROJECT_DIR$/test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="441">
+            <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
