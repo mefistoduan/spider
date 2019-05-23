@@ -1,47 +1,45 @@
-let sql = require('mssql');
-let sd = require('silly-datetime'); //时间
 let request = require('request');
 let cheerio = require('cheerio');
 
-var spider = require('./spider'); //爬虫part
-// weibo
-const url = 'https://s.weibo.com/top/summary?Refer=top_hot&topnav=1&wvr=6';
-// const url = 'http://www.emeixian.com/category-166-b0.html';
-const config = "";
-const minute = Math.random() * 10000;
-// const timeout = (minute * minute).toFixed(2);
-const timeout = 10000;
+// var spider = require('./spider'); //爬虫part
+let writeDater = require('./writeDate');
+
+const ModeNum = 1;// 1 is product 0 is test
+let modeTurn = ModeNum == 0 ? 'test':'product';
+
+let url = '';
+let timeout = '';
+if(modeTurn == 'test'){
+    url = 'http://www.emeixian.com/category-166-b0.html';
+    timeout = 10800;//3 min
+}else{
+    // weibo
+    url = 'https://s.weibo.com/top/summary?Refer=top_hot&topnav=1&wvr=6';
+    timeout = 10800000;//3 h
+}
+
 // run
 search(url);
 let myInterval = setInterval(search, timeout, url);
 
 function search(url) {
     let info = [];
-    let time = sd.format(new Date(), 'YYYY-MM-DD HH:mm:ss');
     let text = '';
     request(url, function (err, res, body) {
         if (!err && res.statusCode == 200) {
             $ = cheerio.load(body);
-            $("#pl_top_realtimehot .td-02 a").each(function (i, item) {
-                let text = $(this).text();
-                info.push(text);
-            });
-            // 写入数据库 todo
-            console.log(info);
-            let sqlrun = '';
-            sql.connect(config).then(function () {
-                info.forEach(function (text) {
-                    sqlrun = "insert into t_info (cdt,content) values ('" + time + "','" + text + "')";
-                    new sql.Request().query(sqlrun).then(function (recordset) {
-                        console.log('ok');
-                    }).catch(function (err) {
-                        console.log(err);
-                    });
-                })
-                }
-            ).catch(function (err) {
-                console.log(err);
-            });
+            if(modeTurn == 'test'){
+                $(".list_content_item li a p").each(function (i, item) {
+                    let text = $(this).text();
+                    info.push(text);
+                });
+            }else{
+                $("#pl_top_realtimehot .td-02 a").each(function (i, item) {
+                    text = $(this).text();
+                    info.push(text);
+                });
+            }
+            writeDater.writeDate(info,modeTurn);
         }
     });
 };
