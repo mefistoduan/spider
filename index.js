@@ -1,7 +1,6 @@
 let request = require('request');
 let cheerio = require('cheerio');
 
-// var spider = require('./spider'); //爬虫part
 let writeDater = require('./writeDate');
 
 const ModeNum = 1;// 1 is product 0 is test
@@ -11,7 +10,7 @@ let url = '';
 let timeout = '';
 if(modeTurn == 'test'){
     url = 'http://www.emeixian.com/category-166-b0.html';
-    timeout = 10800;//3 min
+    timeout = 108000;//3 min
 }else{
     // weibo
     url = 'https://s.weibo.com/top/summary?Refer=top_hot&topnav=1&wvr=6';
